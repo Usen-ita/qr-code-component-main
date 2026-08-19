@@ -29,7 +29,7 @@ This README documents a Frontend Mentor QR code component project. I describe th
 ### Links
 
 - Solution URL: (https://github.com/Usen-ita/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://qr-code-component-usen.netlify.app/)
 
 ## My process
 
