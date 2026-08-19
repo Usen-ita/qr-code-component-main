@@ -20,7 +20,7 @@
 
     /* card border radius */
     --card-br-big: 20px;
-    --card-br-small: calc(var(--card-br-big) / 2);
+    --card-br-small: calc(var(--card-br-big, 20px) / 2);
     
 }
 
